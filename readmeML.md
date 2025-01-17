@@ -17,7 +17,7 @@ Filmora:** Para edição profissional do vídeo com transições e efeitos.
 ✨ Como foi feito?**  
 1. Roteiro gerado via ChatGPT:** O roteiro completo foi criado usando prompts detalhados no ChatGPT, permitindo estruturar e explicar os conceitos de Machine Learning de forma clara e organizada.  
 2. Imagens geradas pelo Leonardo AI: Ilustrações e gráficos foram criados com o Leonardo AI, trazendo um visual impressionante e didático ao projeto.  
-3.Edição final no Filmora: Os vídeos foram editados no Filmora, com transições, música de fundo e efeitos visuais para criar uma experiência envolvente.
+3.Edição final no Invideo: Os vídeos foram construidos por uma IA no Invideo, com transições, música de fundo e efeitos visuais para criar uma experiência envolvente.
 
 
 🛠️ Instruções de execução: 
