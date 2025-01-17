@@ -29,6 +29,6 @@ Utilize prompts detalhados para criar um roteiro que explique os conceitos de Ma
 🤖 2. Gere as imagens no Leonardo AI 
 Com os prompts baseados no roteiro, crie gráficos e ilustrações que ajudem a visualizar os conceitos.  
 
-🤖 **3. Edite o vídeo no Filmora**  
+🤖 **3. Edite o vídeo no Invideo 
 Combine os elementos criados e edite o vídeo, adicionando música de fundo, transições e narração, se necessário.  
 
